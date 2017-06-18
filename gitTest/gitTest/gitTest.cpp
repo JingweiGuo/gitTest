@@ -43,9 +43,12 @@ int candy(vector<int> &ratings)
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+
 	int a[4] = { 7, 2, 11, 15 };
 	vector<int> num(a, a + 4);
 	int result = candy(num);
+
+	int b = 10;
 	return 0;
 }
 
