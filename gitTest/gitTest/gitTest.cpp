@@ -49,6 +49,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	int result = candy(num);
 
 	int b = 10;
+	int c = 20;
 	return 0;
 }
 
