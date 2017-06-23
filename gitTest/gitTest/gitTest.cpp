@@ -50,6 +50,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	int b = 10;
 	int c = 20;
+	int d = 20;
 	return 0;
 }
 
