@@ -48,9 +48,12 @@ int _tmain(int argc, _TCHAR* argv[])
 	vector<int> num(a, a + 4);
 	int result = candy(num);
 
-	int b = 10;
+
 	int c = 20;
 	int d = 20;
+	int e = 20;
+	
+	int f=50£»
 	return 0;
 }
 
