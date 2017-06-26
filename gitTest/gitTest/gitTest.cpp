@@ -56,6 +56,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	int f=50£»
 	int g=50£»
 	int h=80£»
+	
+	int n=0£»
 	return 0;
 }
 
